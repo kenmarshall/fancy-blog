@@ -1,4 +1,4 @@
-var app = angular.module('flappyNews' , ['ui.router']);
+var app = angular.module('fancyBlog' , ['ui.router']);
 
 app.config([
     '$stateProvider',
